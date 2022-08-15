@@ -1,59 +1,12 @@
-## Introduction
+Colour theory is the guidelines that people use when choosing colours and how they can be used together to make nice looking visuals. By understanding color theory basics, you can evoke a particular emotion, vibe, or aesthetic simply by using different colours together. A **Colour palette** is a collection of colours which evoke a certain feeling or emotion from the viewer.
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
 
-### What you will make
+There are three types of colours: primary, secondary, and tertiary colours. These different levels of colour are about how much a colour is made up of different values of red, yellow or blue. **Primary colours** have only one of these - the primary colours are red, yellow and blue themselves. 
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+There are three **Secondary colours**, which are made up of a mix of two of primary colours - green is a combination of yellow and blue, orange is a combination of red and yellow and purple is a combination of red and blue.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+**Tertiary colours** are any combination of a primary colour and a secondary colour.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
 
-+ A computer or tablet capable of running Scratch 3
 
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
