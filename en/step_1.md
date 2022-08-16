@@ -7,8 +7,8 @@ There are three **Secondary colours**, which are made up of a mix of two of prim
 
 **Tertiary colours** are any combination of a primary colour and a secondary colour.
 
-Below is a palette tool called Palleton. By selecting colours around the wheel, you will be able to build a palette of complementary colours.
+Below is a palette tool called Coolors. By clicking the **Generate** button below, you will be able to build a palette of complementary colours. Click on them to find the RGB values:
 
-<iframe width="600px" height="800px" src="https://coolors.co/generate" title="Paletton palette chooser" frameborder="0"></iframe>>
+<iframe width="600px" height="600px" src="https://coolors.co/generate" title="Paletton palette chooser" frameborder="0"></iframe>>
 
 
