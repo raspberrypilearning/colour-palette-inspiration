@@ -7,6 +7,6 @@ There are three **Secondary colours**, which are made up of a mix of two of prim
 
 **Tertiary colours** are any combination of a primary colour and a secondary colour.
 
-<iframe width="600px" height="800px" src="https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF" title="Paletton palette chooser" frameborder="0"></iframe>>
+<iframe src="https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF" title="Paletton palette chooser" frameborder="0"></iframe>>
 
 
