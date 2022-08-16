@@ -1,4 +1,4 @@
-Colour theory is the guidelines that people use when choosing colours and how they can be used together to make nice looking visuals. By understanding color theory basics, you can evoke a particular emotion, vibe, or aesthetic simply by using different colours together. A **Colour palette** is a collection of colours which work together to evoke a certain feeling or emotion from the viewer.
+**Colour theory** is the guidelines that people use when choosing colours and how they can be used together to make nice looking visuals. By understanding color theory basics, you can evoke a particular emotion, vibe, or aesthetic simply by using different colours together. A **Colour palette** is a collection of colours which work together to evoke a certain feeling or emotion from the viewer.
 
 ### Basic colour theory 
 There are three types of colours: primary, secondary, and tertiary colours. These different levels of colour are about how much a colour is made up of different values of red, yellow or blue. **Primary colours** have only one of these - the primary colours are red, yellow and blue themselves. 
