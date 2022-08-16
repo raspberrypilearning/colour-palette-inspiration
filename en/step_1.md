@@ -7,6 +7,8 @@ There are three **Secondary colours**, which are made up of a mix of two of prim
 
 **Tertiary colours** are any combination of a primary colour and a secondary colour.
 
-<iframe src="https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF" title="Paletton palette chooser" frameborder="0"></iframe>>
+Below is a palette tool called Palleton. By selecting colours around the wheel, you will be able to build a palette of complementary colours.
+
+<iframe width="600px" height="800px" src="https://coolors.co/generate" title="Paletton palette chooser" frameborder="0"></iframe>>
 
 
